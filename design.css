@@ -164,7 +164,10 @@ form #mce-responses #mce-success-response.response::before {
 }
 
 a, .info {
+	display: inline-block;
 	color: #007aff;
 	text-decoration: none;
 	font-weight: 700;
+	padding: 0;
+	margin-bottom: 0.75rem;
 }
