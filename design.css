@@ -163,7 +163,7 @@ form #mce-responses #mce-success-response.response::before {
 	content: '🎉'
 }
 
-.info {
+a, .info {
 	color: #007aff;
 	text-decoration: none
 }
