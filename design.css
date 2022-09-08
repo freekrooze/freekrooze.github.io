@@ -64,7 +64,7 @@ h1 {
 
 p {
 	margin-bottom: 3rem;
-	font-size: 1rem;
+	font-size: 1.25rem;
 	font-weight: 300;
 	line-height: 1.2em;
 	text-align:center
@@ -165,5 +165,6 @@ form #mce-responses #mce-success-response.response::before {
 
 a, .info {
 	color: #007aff;
-	text-decoration: none
+	text-decoration: none;
+	font-weight: 700;
 }
