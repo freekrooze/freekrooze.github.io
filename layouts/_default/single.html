@@ -1,0 +1,7 @@
+{{ define "page_title" }}{{ .Title }} {{ end }}
+{{ define "page_description" }} {{ .Description }} {{ end }}
+{{ define "page_id" }}{{ .Params.page_id }}{{ end }}
+
+{{ define "content" }}
+<article>{{ .Content }}</article>
+{{ end }}
