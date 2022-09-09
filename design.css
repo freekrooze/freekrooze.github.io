@@ -171,3 +171,16 @@ a, .info {
 	padding: 0;
 	margin-bottom: 0.75rem;
 }
+
+.blurry-gradient {
+  position: fixed;
+  top:-33%;
+  left: 0;
+  right: 0;
+  margin: 5% auto;
+  width: 1250px;
+  height: 440px;
+  opacity: 0.75;
+  filter: blur(60px);
+  z-index: -10;
+}
