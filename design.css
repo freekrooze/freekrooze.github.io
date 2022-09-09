@@ -251,6 +251,6 @@ section {
   background-repeat: no-repeat;
   background-position: top;
   mix-blend-mode: overlay;
-  filter: blur(25px);
+  filter: blur(40px);
   opacity: 0.4;
 }
